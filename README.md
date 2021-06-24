@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm [Edwin Narváez](https://github.com/edwinnm) 👋 
 
-<!--
-**edwinnm/edwinnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Systems Engineering student at the University of Cuenca in Ecuador 👨‍🎓.
 
-Here are some ideas to get you started:
+I consider myself a responsible 📋 and organized person ⛏.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an enthusiast in Data Science 📈 and Machine learning algorithms 🔍, I have gained experience by participating in courses and I have been able to put it into practice thanks to certain jobs.
+
+In my free time, I like to read about new things 📚, I love learning about the different cultures of the world 🗼🍜. I have never left my country but I would like to 🛩.
+
+Currently I am working a lot with PHP and specifically with Moodle 🤖🎓, I am also improving my skills in Vue.js and I am learning Springboot Framework.
+
+# My skills
+
+- Front-end development using **Vue.js** <img src='assets/vue.svg' width='15'> and **React** <img src='assets/react.svg' width='15'>.
+- Backend-end development using **NodeJs** <img src='assets/nodejs.svg' width='15'> and **PHP** <img src='assets/php.svg' width='15'>.
+- Knowledge of Machine Learning algorithms.
+
+# Where to find me 📩
+- Portfolio site 💼: [edwinnm.com]()
+- Linkedin 📱 : [@edwinnm](www.linkedin.com/in/edwinnm/)
+
+
+### Glad to see you here!
